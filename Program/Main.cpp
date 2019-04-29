@@ -118,7 +118,7 @@ void calcGlassCost()
 		<< price << endl;
 	cost = (float)((float)((width * length) / inchesInSqFt) * price);
 	cout << "The cost of the glass is $" << setw(6)
-		<< cost << endl;
+		<< cost << endl << endl;
 }
 
 void productName_Price()
