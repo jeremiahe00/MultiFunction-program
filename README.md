@@ -54,12 +54,12 @@ printSum(int []) : prints sum of the array integers
 
 ## Getting Started
 
-Run program on MVS and either grab ".txt" files provided in this GIT project, or create your own.
+Run program on MVS and either grab ".txt" files provided in this GIT repository, or create your own.
 
 ## Future Work
 
 If you wish to push requests to add on to this program, or advanced modifications, feel free to do so.
-I will be working on other projects but may come back to this project to modify it and make it much more efficient.
+I will be working on other repositories but may come back to this one to modify it and make it much more efficient.
 
 ## Contact
 
