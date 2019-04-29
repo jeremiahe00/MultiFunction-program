@@ -29,18 +29,18 @@ Implemented in C++ on Microsoft Visual Studio
 - printStars() : prints a triangle of stars, starting with highest number of stars in the first line
 - calc_PH() : calculates PH level of a concentration entered by user (0 to quit)
 - calc_Avg_Sem() : Calculates average of user in a semester (uses a label)
--> avg(int) : calculates average
+ avg(int) : calculates average
 - metPowPro() : computes metabolic power of mammals/reptiles (uses variety of functions)
--> getData(double &, double &, double &, double &, double &, double &) : gets user data
--> calcVOC(double, double, double, double &) : calculates volume of oxygen consumed
--> calcSTP(double, double, double) : corrects voc to standard temperature and pressure
--> calcMP(double, double) : calculates metabolic power
--> PrintMetPower(double, double, double, double, double, double, double) : prints information and MP of animal
+ getData(double &, double &, double &, double &, double &, double &) : gets user data
+ calcVOC(double, double, double, double &) : calculates volume of oxygen consumed
+ calcSTP(double, double, double) : corrects voc to standard temperature and pressure
+ calcMP(double, double) : calculates metabolic power
+ PrintMetPower(double, double, double, double, double, double, double) : prints information and MP of animal
 - order_OneDArray() : performs functions on one dimensional array
--> getArrayInput(int []) : gets array integers from user
--> printAsc(int []) : prints array in ascending order
--> printDesc(int []) : prints array in descending order
--> printSum(int []) : prints sum of the array integers
+ getArrayInput(int []) : gets array integers from user
+ printAsc(int []) : prints array in ascending order
+ printDesc(int []) : prints array in descending order
+ printSum(int []) : prints sum of the array integers
 
 ## Getting Started
 
